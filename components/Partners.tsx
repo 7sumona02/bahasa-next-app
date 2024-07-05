@@ -11,7 +11,7 @@ const Partners = () => {
         </p>
         </div>
       <div className='flex justify-center items-center pt-14'>
-        <div className='grid grid-cols-3 gap-x-10 gap-y-6'>
+        <div className='grid md:grid-cols-3 gap-x-10 gap-y-6'>
             <div>
                 <TeacherCard/>
             </div>
